@@ -1,0 +1,89 @@
+
+.big-logo {
+	text-align: center !important;
+	padding: 0em 1em;
+}
+.big-logo img {
+	margin: 1.5em 0 1.7em 0;
+}
+
+.quizz-link {
+	text-align: center;
+	margin: 1.5em;
+}
+
+.quizz-link a {
+	text-shadow: none;
+	color: white;
+	position: relative;
+	margin: 0 auto;
+	float: none;
+	font-weight: normal;
+	font-style: initial;
+	padding: 0.6em 1em 0.5em 0.6em;
+	font-size: 1.2em;
+	vertical-align: top;
+    white-space: nowrap;
+    /* TODO -webkit-text-size-adjust */
+}
+
+.btn-arrow {
+	background: url(../img/sprites.png) -100px -120px;
+	display: inline-block;
+	height: 28px;
+	width: 25px;
+	margin-right: 0.2em;
+	margin-bottom: -0.1em;
+	margin-top: -0.15em;
+}
+
+.cell p {
+	margin: 0em 1em;
+}
+
+.tab {
+	padding: 0;
+}
+.tab h2 {
+	text-transform: uppercase;
+	font-weight: normal;
+	font-size: 1.1em;
+	display: inline-block;
+	padding: 0.1em 0.5em;
+	padding: 0.3em 1em;
+}
+.tab h2.selected {
+	background: url(../img/answer-bg.png) repeat;
+	color: white;
+}
+
+.video-left-button, .video-right-button {
+	display: inline-block;
+	width: 50px;
+	height: 70px;
+	margin-top: 1em;
+}
+.video-left-button {
+	background: url(../img/sprites-black.jpg) -50px -140px;
+        -webkit-transform: scaleX(-1);
+	transform: scaleX(-1);
+}
+.video-placeholder {
+	display: inline-block;
+}
+.video-text {
+	display: inline-block;
+	vertical-align: bottom;
+}
+.video-right-button {
+	background: url(../img/sprites-black.jpg) -50px -140px;
+	float: right;
+}
+
+.reglement h3 {
+	margin: 1em 0 1em 0;
+}
+
+.blabla {
+	display:none;
+}
