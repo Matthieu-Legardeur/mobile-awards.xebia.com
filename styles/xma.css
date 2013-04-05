@@ -178,7 +178,7 @@ select:focus, input:focus {
   padding: 0em 1em; }
 
 .big-logo img {
-  margin: 1.5em 0 1.7em 0; }
+  margin: 0.5em 0 0.5em 0; }
 
 .quizz-link {
   text-align: center;
@@ -290,15 +290,15 @@ text-shadow: 0.05em 0.05em 0.05em black;}
   border-color:#4D1745;}
 
 .countdown {
-  max-width: 15em; 
+  width: 13em; 
   margin-left: auto;
   margin-right: auto;
-  padding: 0.5em 0 2.5em 0;
+  padding: 2em 0 1em 0;
 }
 
 .foot {
   max-width: 30em;
-  font-size: 2em;
+  font-size: 1.5em;
   margin-left: auto;
   margin-right: auto;
   padding: 1em;}
