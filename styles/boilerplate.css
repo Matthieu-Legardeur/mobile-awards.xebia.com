@@ -222,7 +222,7 @@ textarea[contenteditable] {
     }
     body   {
         /* Style adjustments for viewports that meet the condition */
-        font-size: 14px !important;
+        font-size: 15px !important;
     } 
     
 }
@@ -234,7 +234,7 @@ textarea[contenteditable] {
     }
     body   {
         /* Style adjustments for viewports that meet the condition */
-        font-size: 12px !important;
+        font-size: 14px !important;
     } 
     
 }

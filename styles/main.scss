@@ -55,32 +55,3 @@ strong {
   text-transform: uppercase;
   padding-top: 1em;
 }
-
-.btn {
-  background: #86a50c;
-  text-align: center;
-  text-transform: uppercase;
-  color: #fff;
-  cursor: pointer;
-  display: inline-block;
-  line-height: 1;
-  padding: 0.7em 1.0em;
-  border-radius: 0.35em;
-  border: 0;
-  -webkit-transition: -webkit-box-shadow 0.3s ease-out;
-  transition: box-shadow 0.3s ease-out;
-  margin-top: 0.5em;
-  margin-right: 0.5em;
-}
-.btn:hover, .btn:focus {
-  background: #93b317;
-}
-.login {
-  font-size: 60%;
-  text-align: center;
-  padding-top: 4em;
-  display: none;
-}
-.login span{
-  font-weight: normal !important;
-}
