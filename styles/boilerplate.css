@@ -204,7 +204,39 @@ textarea[contenteditable] {
    ========================================================================== */
 
 @media only screen and (min-width: 800px) {
-    /* Style adjustments for viewports that meet the condition */
+    strong {
+        /* Style adjustments for viewports that meet the condition */
+        font-size: 23px !important;
+    }
+    body   {
+        /* Style adjustments for viewports that meet the condition */
+        font-size: 16px !important;
+    } 
+
+}
+
+@media only screen and (max-width: 799px) {
+    strong {
+        /* Style adjustments for viewports that meet the condition */
+        font-size: 21px !important;
+    }
+    body   {
+        /* Style adjustments for viewports that meet the condition */
+        font-size: 14px !important;
+    } 
+    
+}
+
+@media only screen and (max-width: 500px) {
+    strong {
+        /* Style adjustments for viewports that meet the condition */
+        font-size: 18px !important;
+    }
+    body   {
+        /* Style adjustments for viewports that meet the condition */
+        font-size: 12px !important;
+    } 
+    
 }
 
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5),only screen and (min-resolution: 144dpi) {
